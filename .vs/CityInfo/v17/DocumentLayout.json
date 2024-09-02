@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Repo\\CityInfo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB08556-5A3D-41BC-AE15-9EB4EE2217B5}|CityInfo\\CityInfo.csproj|f:\\repo\\cityinfo\\cityinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB08556-5A3D-41BC-AE15-9EB4EE2217B5}|CityInfo\\CityInfo.csproj|solutionrelative:cityinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB08556-5A3D-41BC-AE15-9EB4EE2217B5}|CityInfo\\CityInfo.csproj|f:\\repo\\cityinfo\\cityinfo\\controllers\\mapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB08556-5A3D-41BC-AE15-9EB4EE2217B5}|CityInfo\\CityInfo.csproj|solutionrelative:cityinfo\\controllers\\mapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB08556-5A3D-41BC-AE15-9EB4EE2217B5}|CityInfo\\CityInfo.csproj|f:\\repo\\cityinfo\\cityinfo\\views\\map\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EB08556-5A3D-41BC-AE15-9EB4EE2217B5}|CityInfo\\CityInfo.csproj|solutionrelative:cityinfo\\views\\map\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB08556-5A3D-41BC-AE15-9EB4EE2217B5}|CityInfo\\CityInfo.csproj|f:\\repo\\cityinfo\\cityinfo\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB08556-5A3D-41BC-AE15-9EB4EE2217B5}|CityInfo\\CityInfo.csproj|solutionrelative:cityinfo\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB08556-5A3D-41BC-AE15-9EB4EE2217B5}|CityInfo\\CityInfo.csproj|f:\\repo\\cityinfo\\cityinfo\\services\\geoserverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB08556-5A3D-41BC-AE15-9EB4EE2217B5}|CityInfo\\CityInfo.csproj|solutionrelative:cityinfo\\services\\geoserverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GeoServerService.cs",
+              "DocumentMoniker": "F:\\Repo\\CityInfo\\CityInfo\\Services\\GeoServerService.cs",
+              "RelativeDocumentMoniker": "CityInfo\\Services\\GeoServerService.cs",
+              "ToolTip": "F:\\Repo\\CityInfo\\CityInfo\\Services\\GeoServerService.cs",
+              "RelativeToolTip": "CityInfo\\Services\\GeoServerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T12:30:18.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Repo\\CityInfo\\CityInfo\\Program.cs",
+              "RelativeDocumentMoniker": "CityInfo\\Program.cs",
+              "ToolTip": "F:\\Repo\\CityInfo\\CityInfo\\Program.cs",
+              "RelativeToolTip": "CityInfo\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T11:57:55.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Repo\\CityInfo\\CityInfo\\Views\\Map\\Index.cshtml",
+              "RelativeDocumentMoniker": "CityInfo\\Views\\Map\\Index.cshtml",
+              "ToolTip": "F:\\Repo\\CityInfo\\CityInfo\\Views\\Map\\Index.cshtml",
+              "RelativeToolTip": "CityInfo\\Views\\Map\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T08:38:10.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\Repo\\CityInfo\\CityInfo\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CityInfo\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\Repo\\CityInfo\\CityInfo\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CityInfo\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T09:36:10.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MapController.cs",
+              "DocumentMoniker": "F:\\Repo\\CityInfo\\CityInfo\\Controllers\\MapController.cs",
+              "RelativeDocumentMoniker": "CityInfo\\Controllers\\MapController.cs",
+              "ToolTip": "F:\\Repo\\CityInfo\\CityInfo\\Controllers\\MapController.cs",
+              "RelativeToolTip": "CityInfo\\Controllers\\MapController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T09:17:07.448Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
